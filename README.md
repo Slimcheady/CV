@@ -13,7 +13,6 @@ Bonjour, bienvenue sur mon cv Github. Double diplomé d'un master d' **Informati
 <li> Verification et correction des données  </li>
 <li> Analyses, présentations et disponibilités des données pour les acteurs  </li>
 <li> Travail de classification et de prévision sur les données </li>
-  <li>  </li>
 </ul>
 
 
