@@ -1,6 +1,6 @@
 # CV
 
-Bonjour, bienvenue sur mon cv Github. Double diplomé d'un master d' **Informatique** et d' **Econométrie**, je recherche un poste de data analyst junior.
+Bonjour, bienvenue sur mon cv Github. Double diplomé d'un master d' **Informatique** et d' **Econométrie**, je recherche un poste de data scientist junior.
 
 ## Expérience Professionnel
 
