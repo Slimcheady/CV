@@ -36,7 +36,7 @@ Création, gestion et extraction de base.
 
 ### Python 
 <ul>
-  <li> Gestion de données avec **Pandas** </li>
+  <li> Gestion de données avec Pandas </li>
   <li> Data science avec scikit-learn </li>
   <li> Visualisation avec Matpolib </li>
   <li> En formation sur Keras </li>
