@@ -26,6 +26,9 @@ Bonjour, bienvenue sur mon cv Github. Diplomé de deux masters d' **Informatique
   <li> Tidyverse </li>
  </ul>
   
+  Lien vers différentes ***ShinyApps*** dévéloppée pour de la demonstration. Elle seront surement en sommeil, merci de me demandez pour que je les réactive.
+  http://simon-durand-14.shinyapps.io/Shiny_STGS_2
+  http://simon-durand-14.shinyapps.io/appli
   
 ## Langages opérationnels
 
